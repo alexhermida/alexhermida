@@ -11,15 +11,20 @@ with challenging legacy, working inside a team and learning **every** single day
 
 I bealive that one of the most valuable thing for achieving goals is communication.
 
-| “Individuals and interactions over processes and tools.”
+>“Individuals and interactions over processes and tools.”
 
 Something important to share: I **love** the Python community.
 
-## Goals for 2020
+## Goals for 2021
 
-Keep improving my coding skills and contributing to the local tech community. So I'll organise a few
-more events in [Python Vigo](https://www.python-vigo.es) and [A Industriosa](https://aindustriosa.org)
-before the end of the year!. Focus and no side projects.
+**Focus and no side projects.**
+
+* Keep improving my coding skills
+* Learning data engineer technologies and tools
+* And contributing to the local tech community.
+
+So I want to organise a few more events in [Python Vigo](https://www.python-vigo.es)
+and [A Industriosa](https://aindustriosa.org) before the end of the year but see how it goes!
 
 ## Current tech stack
 
