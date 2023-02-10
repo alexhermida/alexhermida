@@ -15,7 +15,7 @@ I bealive that one of the most valuable thing for achieving goals is communicati
 
 Something important to share: I **love** the Python community.
 
-## Goals for 2021
+## Goals for 2023
 
 **Focus and no side projects.**
 
