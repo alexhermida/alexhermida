@@ -6,8 +6,11 @@ member.
 
 ## Interests
 
-I work as FullStack (whatever it means). I enjoy creating solutions for real problems, dealing
-with challenging legacy, working inside a team and learning **every** single day.
+I work as a software engineer - nowadays mainly building and deploying services and pipelines. 
+Mostly backend code and leading with data for enabling other teams like data engineers or scientists
+to achieve their goals. BUT haven't been too much time since I worked as a full stack :-D
+I enjoy creating solutions for real problems, dealing with challenging legacy, working inside a team and 
+learning **every** single day.
 
 I bealive that one of the most valuable thing for achieving goals is communication.
 
