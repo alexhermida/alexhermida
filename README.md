@@ -1,40 +1,52 @@
-Glad to have you here!
+# 👋 Glad to have you here!
 
-Currently working at [Healx](https://healx.io). Also, I'm [Python Vigo](https://www.python-vigo.es)
-organiser, [A Industriosa](https://aindustriosa.org) and [VigoTech Alliance](https://vigotech.org)
-member.
+I'm currently working at [Healx](https://healx.io) as a **Principal Software Engineer**. 
+I am an active member and former organizer of [Python Vigo](https://www.python-vigo.es), as well as a former organizer of [PyConES 2024](https://2024.es.pycon.org/).
 
-## Interests
+I love collaborating with the local tech ecosystem, regularly giving talks and workshops at [A Industriosa](https://aindustriosa.org) and the [VigoTech Alliance](https://vigotech.org). Over the last couple of years, I've also been mentoring and collaboration with [ANFAIA](https://anfaia.org/) to help drive innovative AI projects.
 
-I work as a software engineer - nowadays mainly building and deploying services and pipelines. 
-Mostly backend code and leading with data for enabling other teams like data engineers or scientists
-to achieve their goals. BUT haven't been too much time since I worked as a full stack :-D
-I enjoy creating solutions for real problems, dealing with challenging legacy, working inside a team and 
-learning **every** single day.
+---
 
-I bealive that one of the most valuable thing for achieving goals is communication.
+## 🧠 Interests
 
->“Individuals and interactions over processes and tools.”
+As a software engineer, my day-to-day currently revolves around building and deploying **AI agents, APIs, services, and data pipelines**. I specialize in backend architecture, where I enjoy tackling complex problems and designing robust solutions that empower other teams—like data engineers and scientists to achieve their goals. 
 
-Something important to share: I **love** the Python community.
+What drives me:
+* **Solving real-world problems** with practical solutions.
+* **Wrangling challenging legacy systems** into clean, maintainable code.
+* **Collaborating within great teams** and learning *every* single day.
 
-## Goals for 2023
+I firmly believe that clear communication is the single most valuable asset for achieving any goal.
 
-**Focus and no side projects.**
+> “Individuals and interactions over processes and tools.”
 
-* Keep improving my coding skills
-* Learning data engineer technologies and tools
-* And contributing to the local tech community.
+Oh, and as I mentioned, I **love** collaborating with the local community.
 
-So I want to organise a few more events in [Python Vigo](https://www.python-vigo.es)
-and [A Industriosa](https://aindustriosa.org) before the end of the year but see how it goes!
+---
+
+## 🎯 Goals for 2026
+
+**The mantra: Focus.**
+
+* **Stay focused:** Protect my attention and don't let AI FOMO hijack it.
+* **Keep leveling up:** Continuously improve my technical and coding skills.
+* **Deepen AI expertise:** Master AI orchestration, harnessing techniques, and tools.
+* **Give back:** Continue actively contributing to the local tech community.
+
+To hit that last goal, I aim to deliver a few more talks and workshops at [Python Vigo](https://www.python-vigo.es) and [A Industriosa](https://aindustriosa.org) before the year wraps up.
+
+---
 
 ## Current tech stack
 
-**Languages:** Python | Javascript | Typescript
+**Languages:** Python | Typescript | *(whatever language best solves the problem)*
 
-**Other technologies & tools:** PostgreSQL | Docker | Ansible | AWS | Google Cloud
+**Other technologies & tools:** Terraform | PostgreSQL | Docker | Ansible | AWS | Google Cloud | Claude Code
+
+---
+
+## 📊 Stats & Connect
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexhermida&show_icons=true)](https://github.com/alexhermida)
 
-Get in touch through my [blog](https://alexhermida.dev) or [Twitter](https://twitter.com/alexhermida).
+Let's chat! Find me on my [blog](https://alexhermida.dev) or catch me on [Bluesky](https://bsky.app/profile/alexhermida.dev).
