@@ -45,8 +45,6 @@ To hit that last goal, I aim to deliver a few more talks and workshops at [Pytho
 
 ---
 
-## 📊 Stats & Connect
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexhermida&show_icons=true)](https://github.com/alexhermida)
+## 📊 Connect
 
 Let's chat! Find me on my [blog](https://alexhermida.dev) or catch me on [Bluesky](https://bsky.app/profile/alexhermida.dev).
